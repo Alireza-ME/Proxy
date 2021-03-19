@@ -1,7 +1,5 @@
 <?php
 
-include_once 'index.php';
-
 $config = [
 'token'=>'Api Token',
 'admin'=>'0000',
