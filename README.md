@@ -6,8 +6,8 @@ Install source:
 
 Step 1: Edit the config.php file
 
-Step 2: Then click on the Atuo-send.php file. Set 1 minute Cron Job
+Step 2: Set on the Atuo-send.php file 1-minute cron Job
 
-Step 3 on:Atuo-send.php file web hook set
+Step 3 : Set Web Hook On the index.php File. 
 
 Last step: Admin your robot inside the channel and enjoy (:
