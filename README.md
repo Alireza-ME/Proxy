@@ -12,10 +12,8 @@ Step 3 : Set Web Hook On the index.php File
 
 Last step: Admin your robot inside the channel and enjoy (:
 
-Commands 
+Commands -> 1-/Send 2-/MultiSend
 
-/Send  : 
+/Send  : Send a one proxy to the channel
 
-
-
-/MultiSend
+/MultiSend : Send 10 proxies to the channel
