@@ -12,5 +12,10 @@ Step 3 : Set Web Hook On the index.php File
 
 Last step: Admin your robot inside the channel and enjoy (:
 
-Commands : 
+Commands 
 
+/Send  : 
+
+
+
+/MultiSend
