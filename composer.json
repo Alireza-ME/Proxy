@@ -1,17 +1,17 @@
 {
-  "name": "alireza-me/proxy",
-  "description": "Proxy Bot Send Proxy To Channel",
-  "keywords": [
-    "Proxy",
-    "BPT"
-  ],
-  "type": "Bot with Library",
-  "homepage": "https://github.com/Alireza-ME/Proxy",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Alireza-ME",
-      "email": "Alighafurgh82@gmail.com"
+    "name": "alireza-me/proxy",
+    "description": "proxy by bpt",
+    "authors": [
+        {
+            "name": "alireza ghafurrashid",
+            "email": "alighafurgh82@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-fileInfo": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.7"
     }
-  ]
-} 
+}
+ 
