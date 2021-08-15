@@ -13,10 +13,5 @@
       "name": "Alireza-ME",
       "email": "Alighafurgh82@gmail.com"
     }
-  ],
-  "require": {
-    "php": ">=7.2",
-    "ext-curl": "*",
-    "ext-json": "*"
-  }
+  ]
 } 
