@@ -1,14 +1,3 @@
 {
-    "name": "vendor/proxy",
-    "description": "testtt",
-    "type": "project",
-    "require": {
-        "php": "7.2",
-        "php-ipv6": "leave"
-    },
-    "require-dev": {
-        "php": "leave"
-    },
-    "license": "MIT",
-    "minimum-stability": "beta"
+    
 }
