@@ -1,17 +1,1 @@
-{
-    "name": "alireza-me/proxy",
-    "description": "Bpt Proto Proxy Send",
-    "type": "project",
-    "require": {
-     "php": ">=7.2",
-     "ext-curl": "*",
-     "ext-json": "*"
-    },
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Alireza\\Proxy\\": "src/"
-        }
-    },
-    "minimum-stability": "stable"
-}
+
