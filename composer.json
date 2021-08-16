@@ -1,3 +1,16 @@
 {
-    
+    "name": "alireza/proxy",
+    "description": "Bpt Proto Proxy Send",
+    "type": "project",
+    "require": {
+        "php": "p",
+        "php-ipv6": "1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alireza\\Proxy\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
 }
