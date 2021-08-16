@@ -3,8 +3,9 @@
     "description": "Bpt Proto Proxy Send",
     "type": "project",
     "require": {
-        "php": "p",
-        "php-ipv6": "1"
+     "php": ">=7.2",
+     "ext-curl": "*",
+     "ext-json": "*"
     },
     "license": "MIT",
     "autoload": {
