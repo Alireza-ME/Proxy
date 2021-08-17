@@ -1,11 +1,14 @@
 {
     "name": "alireza-me/proxy",
-    "description": "Bpt Proto Proxy Send",
-    "type": "project",
-    "require": {
-     "php": ">=7.2",
-     "ext-curl": "*",
-     "ext-json": "*"
-    },
-    "license": "MIT"
+    "description": "Send ProxyMTProto By BPT PROTO",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alireza-ME",
+            "email": "alighafurgh82@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
