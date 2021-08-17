@@ -8,5 +8,5 @@
      "ext-json": "*"
     },
     "license": "MIT",
-    "minimum-stability": "project"
+    "minimum-stability": "dev"
 }
