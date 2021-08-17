@@ -1,7 +1,7 @@
 {
     "name": "alireza-me/proxy",
     "description": "Send ProxyMTProto By BPT PROTO",
-    "type": "metapackage",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
