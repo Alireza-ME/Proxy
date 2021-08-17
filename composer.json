@@ -3,12 +3,6 @@
     "description": "Send ProxyMTProto By BPT",
     "type": "project",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Alireza-ME",
-            "email": "alighafurgh82@gmail.com"
-        }
-    ],
     "minimum-stability": "stable",
     "require": {}
 }
