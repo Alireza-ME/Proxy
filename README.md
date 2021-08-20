@@ -5,13 +5,13 @@
 <img src="https://img.shields.io/badge/php-+7-green?style=for-the-badge&logo=php">
 <br>
 <img src="https://img.shields.io/badge/License-MIT-gold?style=for-the-badge&logo=surveymonkey">
-
+<br>
 ## Getting started
-**Download Base:**`https://bpt-proto.ir/BPT/base.php`
-
------------
-- Go to Line 3
-
+- **Go to `@BotFather` and create a bot**
+- **After create bot copy your `API_KEY`**
+- **Then download the version of Bese**
+- **Open the version of bese**
+- **Go to Line `3`**
 ```php
 include_once "";
 ```
