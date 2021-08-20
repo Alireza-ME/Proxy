@@ -40,8 +40,8 @@ __date_domain__ | array | [Date domain settings](https://github.com/avid0/Alom#d
 __rounds__ | array | [Rounds settings](https://github.com/avid0/Alom#rounds-settings)
 __style__ | array | [Style settings](https://github.com/avid0/Alom#style-settings)
  
-<br><br>
-#### [You can see full document here](https://bpt-proto.ir).<br>
+
+#### > [You can see full document here](https://bpt-proto.ir).<br>
 #### [You can download latest version of BPT here](https://bpt-proto.ir/BPT/BPT.php).<br>
 #### [You can download latest version of BPT base here](https://bpt-proto.ir/BPT/base.php).<br>
 #### [You can see all of BPT vesrion here](https://dl.bpt-proto.ir/BPT).
