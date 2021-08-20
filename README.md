@@ -1,4 +1,4 @@
-_ BPT Proto Library_
+~~ BPT Proto Library~~
 <img src="https://bpt-proto.ir/asset/img/Bpt.jpg" width="1000px"></img>
 <img src="https://img.shields.io/badge/Version-1.12-blue?style=for-the-badge&logo=V">
 <br>
