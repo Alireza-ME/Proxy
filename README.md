@@ -1,9 +1,11 @@
 # BPT Proto Library 
 <img src="https://bpt-proto.ir/asset/img/Bpt.jpg" width="1000px"></img>
-![Site](https://img.shields.io/badge/Site-bpt--proto.ir-orange)<br>
-![Library Version](https://img.shields.io/badge/Version-1.2-green)<br>
-![php Version](https://img.shields.io/badge/php-7.2-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-yellowgreen)<br><br>
+<img src="https://img.shields.io/badge/Version-1.12-blue?style=for-the-badge&logo=V">
+<br>
+<img src="https://img.shields.io/badge/php-+7-blue?style=for-the-badge&logo=php">
+<br>
+<img src="https://img.shields.io/badge/Version-1.12-blue?style=for-the-badge&logo=tampermonkey">
+
 
 ## Getting started
 ```php
