@@ -5,7 +5,7 @@
 <br>
 ![API Version](https://img.shields.io/badge/php-7.2-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-yellowgreen) 
-<br><br>
+--------------------
  # Getting started
 ```php
 include_once "alomencoder.obfs.php";
