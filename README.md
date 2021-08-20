@@ -1,5 +1,5 @@
 # BPT Proto Library 
-<img src="https://bpt-proto.ir/asset/img/Bpt.jpg" width="900px"></img>
+<img src="https://bpt-proto.ir/asset/img/Bpt.jpg" width="150px"></img>
 ![Site](https://img.shields.io/badge/Site-bpt--proto.ir-orange)<br><br>
 ![Library Version](https://img.shields.io/badge/Version-1.2-green)<br>
 ![php Version](https://img.shields.io/badge/php-7.2-lightgrey)
