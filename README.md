@@ -1,36 +1,15 @@
 # BPT Proto Library 
 **simple library for working with telegram api**
 <br><br>
-<mark>Library Version : 1.2</mark>
-[![Join the bot support group on Telegram](https://img.shields.io/badge/telegram-@PHP__Telegram__Bot__Support-64659d.svg)](https://telegram.me/PHP_Telegram_Bot_Support)
-[![License](https://img.shields.io/packagist/l/longman/telegram-bot.svg)](https://github.com/BPTProto/BPT/LICENSE)
+![API Version](https://img.shields.io/badge/Version-1.2-green)
+<br>
+![API Version](https://img.shields.io/badge/php-7.2-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellowgreen) 
 <br><br>
- Configs 
+ # Getting started
 ```php
 include_once "alomencoder.obfs.php";
 ```
-after that, we define $settings parameter, then use method AlomEncoder::obfuscator()
-```php
-/**
- * @method AlomEncoder::Obfuscator()
- * @param string|callable $code (php code with tags and html code | php file name | an callable)
- * @param array $settings = [] (obfuscate settings parameter)
- */
-$settings = [
-  'rounds' => [
-    'main' => [
-      'depth' => 1.5
-    ]
-  ],
-  'license' => [
-    'title' => 'example',
-    'author' => 'Avid'
-  ]
-];
-$obfs = AlomEncoder::obfuscator("file.php", $settings);
-file_put_contents("file.obfs.php", $obfs); // save obfuscated script
-```
- 
 ## Setting parameters
  
 Index | Type | Description
