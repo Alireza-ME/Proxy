@@ -11,10 +11,12 @@
 - **After create bot copy your `API_KEY`**
 - **Then download the version of Bese**
 - **Open the version of bese**
-- **Go to Line `3`**
+- **Go to Line 2 and input token on `YOUR-TOKEN`**
 ```php
-include_once "";
+$nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
 ```
+**Great, now apply the library settings**
+<h5>Settings are applied inside the `BPT_handler`</h5>
 ## Setting parameters
  
 Index | Type | Description
