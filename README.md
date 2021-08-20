@@ -1,5 +1,5 @@
 
-# :link:Send Proxy By BPT Proto 
+# Send Proxy By BPT Proto 
 
 Source Robot Send proxy to the channel based on the library BPT
 
