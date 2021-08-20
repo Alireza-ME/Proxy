@@ -2,9 +2,9 @@
 <img src="https://bpt-proto.ir/asset/img/Bpt.jpg" width="1000px"></img>
 <img src="https://img.shields.io/badge/Version-1.12-blue?style=for-the-badge&logo=V">
 <br>
-<img src="https://img.shields.io/badge/php-+7-blue?style=for-the-badge&logo=php">
+<img src="https://img.shields.io/badge/php-+7-green?style=for-the-badge&logo=php">
 <br>
-<img src="https://img.shields.io/badge/Version-1.12-blue?style=for-the-badge&logo=tampermonkey">
+<img src="https://img.shields.io/badge/License-MIT-gold?style=for-the-badge&logo=surveymonkey">
 
 
 ## Getting started
