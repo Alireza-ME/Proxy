@@ -1,9 +1,7 @@
 # BPT Proto Library 
-### **A simple library for working with telegram api**
-
+##### **A simple library for working with telegram api**
 --------------
-
-
+# Configs 
 ```php
 include_once "alomencoder.obfs.php";
 ```
@@ -41,7 +39,7 @@ __rounds__ | array | [Rounds settings](https://github.com/avid0/Alom#rounds-sett
 __style__ | array | [Style settings](https://github.com/avid0/Alom#style-settings)
  
 
-#### > [You can see full document here](https://bpt-proto.ir).<br>
+#### [You can see full document here](https://bpt-proto.ir).<br>
 #### [You can download latest version of BPT here](https://bpt-proto.ir/BPT/BPT.php).<br>
 #### [You can download latest version of BPT base here](https://bpt-proto.ir/BPT/base.php).<br>
 #### [You can see all of BPT vesrion here](https://dl.bpt-proto.ir/BPT).
