@@ -16,7 +16,7 @@
 $nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
 ```
 **Great, now apply the library settings**
-<h5>Settings are applied inside the `BPT_handler`</h5>
+**Settings are applied inside the `BPT_handler`'**
 ## Setting parameters
  
 Index | Type | Description
