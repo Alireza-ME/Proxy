@@ -1,11 +1,8 @@
 # BPT Proto Library 
-**simple library for working with telegram api**
-<br><br>
-![API Version](https://img.shields.io/badge/Version-1.2-green)
-<br>
+![API Version](https://img.shields.io/badge/Version-1.2-green)<br>
 ![API Version](https://img.shields.io/badge/php-7.2-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-yellowgreen) 
---------------------
+![License](https://img.shields.io/badge/License-MIT-yellowgreen)<br><br>
+
  # Getting started
 ```php
 include_once "alomencoder.obfs.php";
