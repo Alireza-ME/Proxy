@@ -16,9 +16,9 @@
 $nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
 ```
 **Great, now apply the library settings**
-**Settings are applied inside the `BPT_handler`'**
+<br>
+**Settings are applied inside the `BPT_handler`**
 ## Setting parameters
- 
 Index | Type | Description
 ----- | ---- | -----------
 __license__ | array | [License settings](https://github.com/avid0/Alom#license-settings)
