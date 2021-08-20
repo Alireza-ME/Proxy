@@ -15,8 +15,7 @@
 ```php
 $nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
 ```
-**Great, now apply the library settings**
-<br>
+**Great, now apply the library settings**<br>
 **Settings are applied inside the `BPT_handler`**
 ## Setting parameters
 Index | Type | Description
