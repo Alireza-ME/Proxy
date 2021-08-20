@@ -1,5 +1,5 @@
 # BPT Proto Library 
-##### **A simple library for working with telegram api**
+**A simple library for working with telegram api**
 --------------
 # Configs 
 ```php
