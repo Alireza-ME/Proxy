@@ -18,19 +18,22 @@ $nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
 **Great, now apply the library settings**<br>
 **All settings of `BPT_handler`**
 - **[You Can See Setting parameters Click Here](#Setting)**
+<br>
 **We'll set the settings now**
 ```php
-$BPT = new BPT_handler(
-[
+$BPT = new BPT_handler([
 'token'=>$nHeBULJw,
 'security'=>true,
 'secure_folder'=>true,
 'multi'=>false,
-'db'=>['type'=>'json','file_name'=>'BPT-DB.json']
+'db'=>[
+'type'=>'json',
+'file_name'=>'BPT-DB.json'
 ]
-);
+]);
 ```
-
+**Now everything is great and set by default**
+- **Now we want to set up sql database**
 
 
 
