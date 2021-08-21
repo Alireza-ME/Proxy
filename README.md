@@ -1,10 +1,10 @@
 # BPT Proto Library
 <img src="https://bpt-proto.ir/asset/img/Bpt.jpg" width="1000px"></img>
-<img src="https://img.shields.io/badge/Version-1.12-blue?style=for-the-badge&logo=V">
+<img src="https://img.shields.io/badge/Version-1.12-blue?style=&logo=V">
 <br>
-<img src="https://img.shields.io/badge/php-+7-green?style=for-the-badge&logo=php">
+<img src="https://img.shields.io/badge/php-+7-green?style=&logo=php">
 <br>
-<img src="https://img.shields.io/badge/License-MIT-gold?style=for-the-badge&logo=surveymonkey">
+<img src="https://img.shields.io/badge/License-MIT-gold?style=&logo=surveymonkey">
 <br>
 ## Getting started
 - **Go to `@BotFather` and create a bot**
