@@ -17,12 +17,15 @@ $nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
 ```
 **Great, now apply the library settings**<br>
 **All settings of `BPT_handler`**
-## Setting parameters
+- [Introduction](#Setting)
+
+
+## Setting
 Index | Type | Description
 ----- | ---- | -----------
-__token__ | array | [License settings](https://github.com/avid0/Alom#license-settings)
-__ad__ | array | [Additional settings](https://github.com/avid0/Alom#additional-settings)
-__identify__ | array | [Identify settings](https://github.com/avid0/Alom#identfy-settings)
+__token__ | string | Your API_KEY
+__security__ | boolean | Source Security (true,flase) 
+_secure_folder_ | boolean | [Identify settings](https://github.com/avid0/Alom#identfy-settings)
 __date_domain__ | array | [Date domain settings](https://github.com/avid0/Alom#date-domain-settings)
 __rounds__ | array | [Rounds settings](https://github.com/avid0/Alom#rounds-settings)
 __style__ | array | [Style settings](https://github.com/avid0/Alom#style-settings)
