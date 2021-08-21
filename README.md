@@ -94,6 +94,7 @@ $BPT = new BPT_handler([
 ]);
 ```
 **All you can now run the source and enjoy**
+#### - [Need more samples? Click Here](#Examples).<br>
 
 
 --------------
@@ -110,7 +111,11 @@ __rounds__ | array | [Rounds settings](https://github.com/avid0/Alom#rounds-sett
 __style__ | array | [Style settings](https://github.com/avid0/Alom#style-settings)
  
 
-## Download 
+## Examples
+**Hi**
+
+
+
 #### - [You can see full document here](https://bpt-proto.ir).<br>
 #### - [You can download latest version of BPT here](https://bpt-proto.ir/BPT/BPT.php).<br>
 #### - [You can download latest version of BPT base here](https://bpt-proto.ir/BPT/base.php).<br>
