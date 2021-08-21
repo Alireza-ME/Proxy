@@ -48,9 +48,6 @@ $text = $update['text'];
   $this->sendMessage(['text'=>'Hi Welcome!']);   
    }    
 ```
-
-<br><br>
-
 **Our final code is as follows**
 ```php
 <?php
@@ -70,7 +67,13 @@ class BPT_handler extends BPT{
         return;
     }
     public function message($update){
-        return;
+    $chat_id = $update['chat']['id'];
+    $text = $update['text'];
+     if($text == '/start'){    
+    //Sample SendMessage   
+    $this->sendMessage(['text'=>'Hi Welcome!']);   
+      }    
+       return;
     }
     public function edited_message($update){
         return;
@@ -90,6 +93,7 @@ $BPT = new BPT_handler([
 ]
 ]);
 ```
+- [You can see full English document here](https://bpt-proto.ir).<br>
 
 
 --------------
