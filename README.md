@@ -13,7 +13,7 @@
 - **Open the version of bese**
 - **Go to Line 2 and input token on `YOUR-TOKEN`**
 ```php
-$nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
+$token = 'YOUR-TOKEN'; //Write Your Token here!!
 ```
 **Great, now apply the library settings**<br>
 **All settings of `BPT_handler`**
@@ -22,7 +22,7 @@ $nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
 **We'll set the settings now**
 ```php
 $BPT = new BPT_handler([
-'token'=>$nHeBULJw,
+'token'=>$token,
 'security'=>true,
 'secure_folder'=>true,
 'multi'=>false,
@@ -33,8 +33,47 @@ $BPT = new BPT_handler([
 ]);
 ```
 **Now everything is great and set by default**
-- **Now we want to set up sql database**
+#### Now we're going to have the bot respond to an Command.
 
+**OurOur final code is as follows**
+```php
+<?php
+$token= 'YOUR-TOKEN'; //Write Your Token here!!
+if(!file_exists('BPT.php')){
+    copy('https://BPT-Proto.ir/BPT/BPT.php','BPT.php');
+}
+include 'BPT.php';
+class BPT_handler extends BPT{
+    public function __construct($token_bot){
+        parent::__construct($token_bot);
+    }
+    public function inline_query($update){
+        return;
+    }
+    public function callback_query($update){
+        return;
+    }
+    public function message($update){
+        return;
+    }
+    public function edited_message($update){
+        return;
+    }
+    public function something_else($update){
+        return;
+    }
+}
+$BPT = new BPT_handler([
+'token'=>$token,
+'security'=>true,
+'secure_folder'=>true,
+'multi'=>false,
+'db'=>[
+'type'=>'json',
+'file_name'=>'BPT-DB.json'
+]
+]);
+```
 
 
 --------------
