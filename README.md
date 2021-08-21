@@ -33,7 +33,12 @@ $BPT = new BPT_handler([
 ]);
 ```
 **Now everything is great and set by default**
+<br>
 #### Now we're going to have the bot respond to an Command.
+**To do this, we need `text` and `chat_id`**
+
+
+<br><br>
 
 **OurOur final code is as follows**
 ```php
