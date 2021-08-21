@@ -1,10 +1,10 @@
 # BPT Proto Library
 <img src="https://bpt-proto.ir/asset/img/Bpt.jpg" width="1000px"></img>
-<img src="https://img.shields.io/badge/Version-1.12-blue?style=&logo=V">
+<img src="https://img.shields.io/badge/Version-1.12-blue?style=for-the-badge&logo=V">
 <br>
-<img src="https://img.shields.io/badge/php-+7-green?style=&logo=php">
+<img src="https://img.shields.io/badge/php-+7-green?style=for-the-badge&logo=php">
 <br>
-<img src="https://img.shields.io/badge/License-MIT-gold?style=&logo=surveymonkey">
+<img src="https://img.shields.io/badge/License-MIT-gold?style=for-the-badge&logo=surveymonkey">
 <br>
 ## Getting started
 - **Go to `@BotFather` and create a bot**
@@ -18,6 +18,18 @@ $nHeBULJw= 'YOUR-TOKEN'; //Write Your Token here!!
 **Great, now apply the library settings**<br>
 **All settings of `BPT_handler`**
 - **[You Can See Setting parameters Click Here](#Setting)**
+**We'll set the settings now**
+```php
+$BPT = new BPT_handler(
+[
+'token'=>$nHeBULJw,
+'security'=>true,
+'secure_folder'=>true,
+'multi'=>false,
+'db'=>['type'=>'json','file_name'=>'BPT-DB.json']
+]
+);
+```
 
 
 
