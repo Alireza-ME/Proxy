@@ -36,11 +36,22 @@ $BPT = new BPT_handler([
 <br>
 #### Now we're going to have the bot respond to an Command.
 **To do this, we need `text` and `chat_id`**
-
+**To get these two, we use the The following code**
+```php
+$chat_id = $update['chat']['id'];
+$text = $update['text'];
+```
+**Now we say if the user's message is equal to `/start` send him a message**
+```php
+  if($text == '/start'){    
+  //Sample SendMessage
+  $this->sendMessage(['text'=>'Hi Welcome!']);   
+   }    
+```
 
 <br><br>
 
-**OurOur final code is as follows**
+**Our final code is as follows**
 ```php
 <?php
 $token= 'YOUR-TOKEN'; //Write Your Token here!!
