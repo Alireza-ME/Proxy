@@ -94,7 +94,7 @@ $BPT = new BPT_handler([
 ]);
 ```
 **All you can now run the source and enjoy**
-#### - [Need more samples? Click Here](#Examples).<br>
+- [Need more samples? Click Here](#Examples).<br>
 
 
 --------------
