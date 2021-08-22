@@ -2,6 +2,13 @@
 <img src="https://bpt-proto.ir/asset/img/Bpt.jpg" width="1000px"></img>
 <img src="https://img.shields.io/badge/Version-1.12-blue?style=for-the-badge&logo=V"> <img src="https://img.shields.io/badge/php-+7-green?style=for-the-badge&logo=php"><img src="https://img.shields.io/badge/License-MIT-gold?style=for-the-badge&logo=surveymonkey">
 
+## Table of Contents
+- [Introduction](#Introduction) 
+- [Getting started](#Getting-started)
+- [BPT Settings](#Setting)
+- [Source Sample](#Examples)
+- [Download Section](#Download-Section)
+
 ## Getting started
 - **Go to `@BotFather` and create a bot**
 - **After create bot copy your `API_KEY`**
@@ -110,7 +117,8 @@ __style__ | array | [Style settings](https://github.com/avid0/Alom#style-setting
 
 <br><br>
 
-#### - [You can see full document here](https://bpt-proto.ir).<br>
+## Download Section
+#### - [You can see full document  here](https://bpt-proto.ir).<br>
 #### - [You can download latest version of BPT here](https://bpt-proto.ir/BPT/BPT.php).<br>
 #### - [You can download latest version of BPT base here](https://bpt-proto.ir/BPT/base.php).<br>
 #### - [You can see all of BPT vesrion here](https://dl.bpt-proto.ir/BPT).
