@@ -12,15 +12,15 @@
 ---------------
 ## Introduction
 **What is the BPT Library? 
-A library for easier use and better coding in source codes
+A library for easier use and better coding in source codes**
 
-What is BPT? 
-This word for `Bot Php Tools` in Persian means `php bot tool`. 
+**What is BPT? 
+This word for `Bot Php Tools` in Persian means php bot tool.**
 
-How do I use it? 
-This library is a free resource and you can easily use it by reading the documentation. 
+**How do I use it? 
+This library is a free resource and you can easily use it by reading the documentation.**
 
-Developers? 
+**Developers? 
 This library has been designed by (Alireza Ghafoorshid, Miad Sadeghlou) and is available for free to your loved ones.**
 
 ## Getting started
