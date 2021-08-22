@@ -15,7 +15,7 @@
 A library for easier use and better coding in source codes
 
 What is BPT? 
-This word for "Bot Php Tools" in Persian means "php bot tool". 
+This word for `Bot Php Tools` in Persian means `php bot tool`. 
 
 How do I use it? 
 This library is a free resource and you can easily use it by reading the documentation. 
