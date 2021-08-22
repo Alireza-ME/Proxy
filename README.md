@@ -9,6 +9,7 @@
 - [Source Sample](#Examples)
 - [Download Section](#Download-Section)
 
+---------------
 ## Getting started
 - **Go to `@BotFather` and create a bot**
 - **After create bot copy your `API_KEY`**
@@ -115,10 +116,8 @@ __style__ | array | [Style settings](https://github.com/avid0/Alom#style-setting
 ## Examples
 **Hi**
 
-<br><br>
-
 ## Download Section
-#### - [You can see full document  here](https://bpt-proto.ir).<br>
-#### - [You can download latest version of BPT here](https://bpt-proto.ir/BPT/BPT.php).<br>
-#### - [You can download latest version of BPT base here](https://bpt-proto.ir/BPT/base.php).<br>
-#### - [You can see all of BPT vesrion here](https://dl.bpt-proto.ir/BPT).
+- [You can see full document  here](https://bpt-proto.ir).<br>
+- [You can download latest version of BPT here](https://bpt-proto.ir/BPT/BPT.php).<br>
+- [You can download latest version of BPT base here](https://bpt-proto.ir/BPT/base.php).<br>
+- [You can see all of BPT vesrion here](https://dl.bpt-proto.ir/BPT).
