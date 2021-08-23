@@ -23,7 +23,6 @@ This library is a free resource and you can easily use it by reading the documen
 **Developers? <br>
 This library has been designed by (Alireza Ghafoorshid, Miad Sadeghlou) and is available for free to your loved ones.**
 
-
 ----------
 ## Getting started
 - **Go to `@BotFather` and create a bot**
@@ -132,7 +131,7 @@ __style__ | array | [Style settings](https://github.com/avid0/Alom#style-setting
 ## Examples
 - **Basic version of sql database based on BPT** : [See Source](https://bpt-proto.ir)
 
-<br>
+----------
 
 ## Download Section
 - [You can see full document  here](https://bpt-proto.ir).<br>
