@@ -112,7 +112,7 @@ $BPT = new BPT_handler([
 ]);
 ```
 **All you can now run the source and enjoy**
-###### - [Need more samples? Click Here](#Examples).<br>
+ - [Need more samples? Click Here](#Examples).<br>
 
 ----------
 
@@ -125,8 +125,6 @@ _secure_folder_ | boolean | [Identify settings](https://github.com/avid0/Alom#id
 __date_domain__ | array | [Date domain settings](https://github.com/avid0/Alom#date-domain-settings)
 __rounds__ | array | [Rounds settings](https://github.com/avid0/Alom#rounds-settings)
 __style__ | array | [Style settings](https://github.com/avid0/Alom#style-settings)
-
-<br>
 
 ## Examples
 - **Basic version of sql database based on BPT** : [See Source](https://bpt-proto.ir)
