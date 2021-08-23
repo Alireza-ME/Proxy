@@ -128,10 +128,8 @@ __style__ | array | [Style settings](https://github.com/avid0/Alom#style-setting
 <br>
 
 ## Examples
-
 - **Basic version of sql database based on BPT** : [See Source](https://bpt-proto.ir)
 
-----------
 
 ## Download Section
 - [You can see full document  here](https://bpt-proto.ir).<br>
