@@ -126,6 +126,11 @@ __db__ | array | The library has two databases. Click on the name to see the par
 
 ----------
 #### json database
+Index | Type | Description
+----- | ---- | -----------
+__type__ | string | Database type must be json
+__filename__ | string | Tom a file created by the library and the data inside it
+Example : 
 
 ----------
 #### sql database
