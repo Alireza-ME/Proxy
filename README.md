@@ -119,11 +119,10 @@ $BPT = new BPT_handler([
 Index | Type | Description
 ----- | ---- | -----------
 __token__ | string | Your API_KEY
-__security__ | boolean | Source Security (true,flase) 
-_secure_folder_ | boolean | [Identify settings](https://github.com/avid0/Alom#identfy-settings)
-__date_domain__ | array | [Date domain settings](https://github.com/avid0/Alom#date-domain-settings)
-__rounds__ | array | [Rounds settings](https://github.com/avid0/Alom#rounds-settings)
-__style__ | array | [Style settings](https://github.com/avid0/Alom#style-settings)
+__security__ | boolean | Source Security
+_secure_folder_ | boolean | security folder Provides security for the source and related Folders 
+__multi__ | boolean | Adds parallel processing to source
+__db__ | array | [Json Parameters](#json).<br> [sql parameters](#sql)
 
 ----------
 ## Examples
