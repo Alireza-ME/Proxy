@@ -130,7 +130,14 @@ Index | Type | Description
 ----- | ---- | -----------
 __type__ | string | Database type must be json
 __filename__ | string | Tom a file created by the library and the data inside it
+
 Example : 
+```php
+'db'=>[
+'type'=>'json',
+'file_name'=>'BPT-DB.json'
+]
+```
 
 ----------
 #### sql database
