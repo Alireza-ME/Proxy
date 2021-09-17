@@ -141,6 +141,22 @@ Example :
 
 ----------
 #### sql database
+Index | Type | Description
+----- | ---- | -----------
+__type__ | string | Database type must be sql
+__user__ | string | Database username
+__pass__ | string | Database password 
+__name__ | string | Database name
+
+Example : 
+```php
+'db'=>[
+'type'=>'sql',
+'user'=> '',
+'pass'=> '',
+'name'=> '' 
+]
+```
 
 ----------
 ## Examples
